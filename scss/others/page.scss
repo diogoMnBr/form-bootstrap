@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+body {
+    background-image: url(../../images/born-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;   
+}
+
+.container1 {
+    background-color: $background-color;
+    width: 1px;
+    height: auto;
+}
+
+.topLogo {
+    width: 200px;
+}
+
+.footer {
+    margin-top: 30px;
+}
+
+.text-footer {
+    padding: 18px;
+}
+
+/*
+.paragraph {
+    margin: 8px 0px;
+}
+
+
+*/
