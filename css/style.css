@@ -12,9 +12,13 @@ body {
 }
 
 .container1 {
-  background-color: #292929;
+  background-color: #666666;
   width: 1px;
   height: auto;
+}
+
+input {
+  width: 50%;
 }
 
 .topLogo {
